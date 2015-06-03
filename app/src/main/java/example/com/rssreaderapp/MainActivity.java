@@ -10,6 +10,7 @@ public class MainActivity extends ActionBarActivity {
     // This is for version 1.4 on github
     // have just changed
     // have just changed again
+    // have just change again again
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
